@@ -2,7 +2,7 @@
   "name": "react_todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Bala-1729.github.io/React_Todo_App",
+  "homepage": "https://Bala-1729.github.io/React_todo_app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
